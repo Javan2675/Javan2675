@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Javan Muriungi 
-- I’m interested in CyberSecurity 
+-  I’m interested in CyberSecurity 
 - 🌱 I’m currently learning Artificial Intelligence 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects and ctf challenges 
 - 📫 How to reach me @javanmuriungi@gmail.com 
 
 <!---
